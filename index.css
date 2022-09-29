@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-size: 34px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+.box{
+    border: 4px solid black;
+    height: 300px;
+}
+.box form{
+    align-items: center;
+}
+.button{
+    padding-top: 2%;
+}
